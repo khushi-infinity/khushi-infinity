@@ -1,5 +1,8 @@
 <h1 align="center"> Hello World, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Khushi</h1>
-<h3 align ="center">Making possible with code</h3>  
+<h3 align ="center">To see a World in a Grain of Sand<br>
+And a Heaven in a Wild Flower<br>
+Hold infinity in the palm of your hand<br>
+And Eternity in an hour</h3>  
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=khushi-infinity.khushi-infinity" alt="Visitor Badge"/>
